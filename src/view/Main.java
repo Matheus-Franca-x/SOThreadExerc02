@@ -17,8 +17,5 @@ public class Main
 		{
 			controll.somaThread(m, i);
 		}
-		
-		
-		
 	}
 }
